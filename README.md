@@ -9,6 +9,6 @@ IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS)
 
 https://ieeexplore-ieee-org.uwe.idm.oclc.org/xpl/conhome/1800417/all-proceedings
 
+IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids
 
-
-http://www.wikicfp.com/cfp/call?conference=cyber-physical%20systems
+https://sgc2025.ieee-smartgridcomm.org/
