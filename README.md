@@ -1,4 +1,4 @@
-# conference
+# Conference
 CPS Conferences
 
 ACM Cyber-Physical System Security Workshop (CPSS)
@@ -12,3 +12,7 @@ https://ieeexplore-ieee-org.uwe.idm.oclc.org/xpl/conhome/1800417/all-proceedings
 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids
 
 https://sgc2025.ieee-smartgridcomm.org/
+
+IEEE International Conference on Communications (ICC)
+
+https://icc2026.ieee-icc.org/
