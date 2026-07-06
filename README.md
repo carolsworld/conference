@@ -16,3 +16,7 @@ https://sgc2025.ieee-smartgridcomm.org/
 IEEE International Conference on Communications (ICC)
 
 https://icc2026.ieee-icc.org/
+
+IEEE Cybersecurity and Resilience Workshop Conference
+
+https://www.ieee-csr.org/
